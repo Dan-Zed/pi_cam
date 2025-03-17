@@ -1,0 +1,16 @@
+[project]
+name = "cam-stream"
+version = "0.1.0"
+description = "basic pi cam streaming webapp"
+authors = [
+    {name = "Dan-Zed",email = "daniel@more.science"}
+]
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
